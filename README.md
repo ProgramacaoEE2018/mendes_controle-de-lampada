@@ -11,3 +11,5 @@ Esse tutorial ensina a fazer uma janela de visualizador de imagens, onde o usuá
 
 Esboço GUI:
 ![esboco_gui](esboco_gui.png)
+
+A interface do programa de controle da lampada dá ao usuário a opção de ligar e desligar, além de poder detalhar o tempo em que deseja que a lampada permaneça no modo desejado. 
