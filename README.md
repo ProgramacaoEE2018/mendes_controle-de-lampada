@@ -8,3 +8,6 @@ A biblioteca escolhida foi Windows forms, e executei o seguinte tutorial : https
 Esse tutorial ensina a fazer uma janela de visualizador de imagens, onde o usuário pode abrir uma imagem, apagar a mesma, escolher a cor do plano de fundo.
 
 ![tutorial](tutorial.png)
+
+Esboço GUI:
+![esboco_gui](esboco_gui.png)
