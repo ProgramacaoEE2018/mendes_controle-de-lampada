@@ -15,3 +15,8 @@ Esboço GUI:
 A interface do programa de controle da lampada dá ao usuário a opção de ligar e desligar, além de poder detalhar o tempo em que deseja que a lampada permaneça no modo desejado. 
 
 O programa ainda não está completo, pois ainda falta conseguir armazenar os dados do tempo e jogá-los para o arduino. O arquivo Lampada.cpp é o código utilizado no arduino. 
+
+Atualização : o programa não saiu totalmente como esperado, mas foi possível escolher dentre três tempos para acender ou desligar a lâmpada. O código utilizado no arduino foi atualizado.
+
+Para executar o programa, é necessário abrir o software do arduino, colar o código e compilar. Depois, abrir a aplicação feita no Visual Studio.
+Vídeo do programa funcionando : https://drive.google.com/open?id=1IOQN2CwxRB6tGUnqKpQ_sS1cJRvhBGCw
