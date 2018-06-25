@@ -9,6 +9,9 @@ Esse tutorial ensina a fazer uma janela de visualizador de imagens, onde o usuá
 
 ![tutorial](tutorial.png)
 
+Fluxograma : ![fluxograma](fluxograma.png)
+
+
 Esboço GUI:
 ![esboco_gui](esboco_gui.png)
 
